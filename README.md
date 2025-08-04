@@ -36,12 +36,10 @@ I'm also actively improving my *Data Structures & Algorithms* skills in *Java*.
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/sakshi2407/)   
-📫 *Email*: sg083684@gmail.com
 <a href="https://www.linkedin.com/in/sakshi2407">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
 </a>
-
+📫 *Email*: sg083684@gmail.com
 
 ---
 
