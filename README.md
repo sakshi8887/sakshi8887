@@ -36,7 +36,7 @@ I'm also actively improving my *Data Structures & Algorithms* skills in *Java*.
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/sakshi2407/)](https://www.linkedin.com/in/sakshi2407/)   
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/sakshi2407/)   
 📫 *Email*: sg083684@gmail.com
 
 ---
