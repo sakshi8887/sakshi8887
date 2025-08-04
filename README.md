@@ -38,6 +38,7 @@ I'm also actively improving my *Data Structures & Algorithms* skills in *Java*.
 
 <a href="https://www.linkedin.com/in/sakshi2407">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
+  <span style="font-size:15px; vertical-align:middle;">LinkedIn</span>
 </a><br>
 📫 *Email*: sg083684@gmail.com
 
